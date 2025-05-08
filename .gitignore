@@ -3,3 +3,5 @@ data/
 databricks-datasets/
 flights/
 *.csv
+metastore_db/
+*.log
