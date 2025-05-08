@@ -1,2 +1,5 @@
 .DS_Store
 data/
+databricks-datasets/
+flights/
+*.csv
