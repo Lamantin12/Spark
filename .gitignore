@@ -5,3 +5,4 @@ flights/
 *.csv
 metastore_db/
 *.log
+spark-warehouse/
